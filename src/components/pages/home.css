@@ -1,0 +1,88 @@
+/* Add this in your CSS file */
+@media (max-width: 767px) {
+  table {
+    display: block;
+  }
+
+  .first-row {
+    display: block;
+  }
+
+  .first-column {
+    display: block;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .first-column img {
+    width: 100%;
+  }
+
+  .first-column h1 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  /* Adjust other table content for small screens */
+  td[colSpan="3"] {
+    text-align: center;
+  }
+}
+
+
+
+/* After Login Content  */
+
+.slider-container {
+  width: 100%;
+  max-width: 600px;
+  /* Controls max width for responsiveness */
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  /* Optional shadow for extra style */
+}
+
+.slider {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slider-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border: 10px solid #222831;
+  /* Added border */
+  border-radius: 8px;
+  /* Optional, adds rounded corners to the border */
+}
+
+.partner img {
+  display: block;
+  /* Removes bottom space */
+  height: auto;
+  /* Maintains aspect ratio */
+  border-radius: 10px;
+  /* Rounded corners for the image */
+}
+
+.partner table {
+  margin: 5vw 2vw;
+}
+
+.partner img {
+  width: 65vw;
+}
+
+.partner img:hover {
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.6), 0 0 40px rgba(0, 0, 0, 0.4);
+  transition: box-shadow 0.4s ease;
+}
+
+.thumbnail {
+  vertical-align: top;
+}
