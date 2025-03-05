@@ -1,0 +1,18 @@
+/* // Fonts for header only -- fontFamily: '"Playwrite IT Moderna", serif'  */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+/* // Fonts for Footer only -- fontFamily: "'Open Sans', serif"*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+/* Fonts for headings  */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+@import "tailwindcss";
+
+/* Fonts for headings  */
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+  font-style: normal;
+}
