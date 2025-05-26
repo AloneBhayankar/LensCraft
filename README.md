@@ -26,7 +26,7 @@ Below are visual previews of the LensCraft project, showcasing key features and 
   <img src="public/signup.JPG" alt="Signup" style="width: 80%; border: 2px solid white;"/>
   <img src="public/home.JPG" alt="Home" style="width: 80%; border: 2px solid white;"/>
   <img src="public/home1.JPG" alt="Home" style="width: 80%; border: 2px solid white;"/>
-  <img src="public/all-images.JPG" alt="All-Images" style="width: 80%; border: 2px solid white;"/>
+  <img src="public/all-images.jpg" alt="All-Images" style="width: 80%; border: 2px solid white;"/>
   <img src="public/add-image.JPG" alt="Add-Image" style="width: 80%; border: 2px solid white;"/>
   <img src="public/categories.JPG" alt="Categories" style="width: 80%; border: 2px solid white;"/>
 </div>
